@@ -22,4 +22,4 @@
 	REPOS_DIR="/path/to/your/repos" — заменяем на путь к директории, где лежат репозитории, (опционально) Измените BRANCH_NAME="dev/$TASK_ID" на другой формат, например, $TASK_ID-update.
 
 3.Делаем скрипт исполнаемым:
-	chmod +x update_go.sh TASK-001
+	chmod +x update_go.sh 
